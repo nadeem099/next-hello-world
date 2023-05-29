@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Asus TUF",
+      "price": 600,
+      "stock": 4
+    },
+    {
+      "id": "2",
+      "title": "Asus ROG",
+      "price": 80000,
+      "stock": 3
+    },
+    {
+      "id": "3",
+      "title": "Lenovo Ideapad",
+      "price": 6700,
+      "stock": 2
+    },
+    {
+      "id": "4",
+      "title": "HP Pavillion",
+      "price": 7000,
+      "stock": 6
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "news article 1",
+      "description": "description 1",
+      "category": "sports"
+    },
+    {
+      "id": 2,
+      "title": "news article 2",
+      "description": "description 2",
+      "category": "politics"
+    },
+    {
+      "id": 3,
+      "title": "news article 3",
+      "description": "description 3",
+      "category": "entertainment"
+    },
+    {
+      "id": 4,
+      "title": "news article 4",
+      "description": "description 4",
+      "category": "sports"
+    }
+  ],
+  "dashboard": {
+    "likes": 30,
+    "comments": 10,
+    "followings": 300,
+    "followers": 200
+  },
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "description": "description 1",
+      "category": "sports",
+      "date": "April 25"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "description": "description 2",
+      "category": "sports",
+      "date": "April 25"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "description": "description 3",
+      "category": "sports",
+      "date": "April 25"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "description": "description 4",
+      "category": "clubbing",
+      "date": "April 25"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "description": "description 5",
+      "category": "clubbing",
+      "date": "April 25"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "description": "description 6",
+      "category": "sports",
+      "date": "April 25"
+    }
+  ]
+}

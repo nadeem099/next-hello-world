@@ -3,7 +3,7 @@ import { useRouter } from "next/router";
 
 function BlogPost(): JSX.Element {
   const { blogId, commentId } = useRouter().query;
-  return <div>Product: {blogId} and Comment : {commentId}</div>;
+  return <div>Blog: {blogId} and Comment : {commentId}</div>;
 }
 
 export default BlogPost;
