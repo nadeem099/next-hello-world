@@ -1,0 +1,6 @@
+.nav > li {
+  list-style-type: none;
+  display: inline-block;
+  color: blue;
+  margin: 0 5px;
+}
